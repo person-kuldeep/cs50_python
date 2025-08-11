@@ -9,3 +9,4 @@
 # mv <file> <newfile> to move or rename a file
 # ..  represents the parent directory
 # .   represents the current directory
+# clear to clear the terminal screen
