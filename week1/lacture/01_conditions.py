@@ -25,6 +25,7 @@ else :
 """
 
 # even or odd 
+
 def main():
     n = int(input("enter a number: "))
     if is_even(n):
@@ -38,3 +39,5 @@ def is_even(x):
     return x % 2 == 0
 
 main()
+
+
